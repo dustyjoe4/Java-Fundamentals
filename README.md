@@ -1,5 +1,7 @@
 # CodingNomads Java Fundamentals
 
+I just updated this on my terminall.
+
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
 ## Getting Started
