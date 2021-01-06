@@ -1,5 +1,7 @@
 package labs_examples.datatypes_operators.labs;
 
+import java.sql.SQLOutput;
+
 /**
  * Data Types and Operators Exercise 1: Variable declaration and Initialization
  *
@@ -15,7 +17,13 @@ package labs_examples.datatypes_operators.labs;
 public class Exercise_01 {
 
     public static void main(String[] args) {
+        int Q = 300;
+        double W = 20.54;
+        float E = 300.76f;
 
+        System.out.println(Q);
+        System.out.println(W);
+        System.out.println(E);;
         // write code here
 
     }
